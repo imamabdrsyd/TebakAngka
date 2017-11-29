@@ -43,3 +43,6 @@ while ( kesempatan >=0 );
    }
 
 // ASJFHAUFHEWPFWEJNFKLWNSEKLGNWF
+// As;lfma'lfmafaafafalwa
+//dsfsdffffffffffffffffffffffffffffffff
+//afafffffffffffffffadwewr
