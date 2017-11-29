@@ -41,3 +41,5 @@ else{
 while ( kesempatan >=0 ); 
     }
    }
+
+// ASJFHAUFHEWPFWEJNFKLWNSEKLGNWF
